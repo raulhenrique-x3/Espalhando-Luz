@@ -1,0 +1,33 @@
+header{
+    padding: 18px;
+    align-items: center;
+    background-color: #abe4ff;
+}
+
+h1{
+    margin: 0;
+}
+
+.socMediaIcons{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px;
+}
+
+hr{
+    margin: 0;
+}
+
+.bi-instagram{
+    color: rgb(252, 162, 177);
+}
+
+.bi-whatsapp{
+    color: green;
+}
+
+.bi-envelope{
+    color: black;
+}
